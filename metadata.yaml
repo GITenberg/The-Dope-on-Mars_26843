@@ -1,0 +1,44 @@
+_repo: The-Dope-on-Mars_26843
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wood, Wallace
+    alias: Wood, Wally
+    birthdate: 1927
+    deathdate: 1981
+    gutenberg_agent_id: '32276'
+    url: http://www.gutenberg.org/2009/agents/32276
+    wikipedia: http://en.wikipedia.org/wiki/Wally_Wood
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sharkey, Jack
+    alias: Sharkey, John Michael
+    birthdate: 1931
+    deathdate: 1992
+    gutenberg_agent_id: '32269'
+    url: http://www.gutenberg.org/2009/agents/32269
+description: In this classic short story from the golden age of science fiction, a
+  down-on-his-luck writer is sent to Mars to get the inside scoop on the Red Planet.
+  In the diary he keeps to document his first impressions, it becomes clear that interplanetary
+  travel is not all it's cracked up to be. Fans of the genre will love this quirky,
+  irreverent and imaginative tale.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26843'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Space flight -- Fiction'
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcsh 'Short stories'
+title: The Dope on Mars
+url: http://www.gutenberg.org/ebooks/26843
